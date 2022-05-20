@@ -1,0 +1,31 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-image: url('./imgs/background.png');
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+}
+
+.doodler {
+    width: 87px;
+    height: 85px;
+    background-image: url('./imgs/doodler-guy.png');
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background-image: url('./imgs/platform.png');
+    position: absolute;
+}
+
+.gold {
+    width: 50px;
+    height: 50px;
+    background-image: url('./imgs/stock-vector-set-of-minimalistic-pixel-art-vector-objects-isolated-pixel-game-buttons-bit-ui-gaming-bar-1715248393\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+}
